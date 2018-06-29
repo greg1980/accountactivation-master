@@ -1,0 +1,143 @@
+/* CSS STYLE FOR NBA SLP WEBSITE*/
+body{
+  padding-top: 50px;
+  font-family: 
+
+    font-family: 'Spectral SC', serif;
+
+    font-family: 'Indie Flower', cursive;
+
+
+
+}
+
+
+.navbar .navbar-inverse {
+    background-color: 2#DEDEDC;
+    border-color: #080808;
+  }
+
+  .carousel {
+      position: relative;
+      margin-bottom: 30px;
+  }
+
+  .carousel img {
+    min-width: 100%;
+}
+
+  .btn-sm{
+      padding: 5px 10px;
+      font-size: 13px;
+      line-height: 1.5;
+      border-radius: 0px;
+  }
+  /*footer*/
+  .footer{
+    background:#242424; ;
+    padding:30px 0 30px;
+    color: white;
+  }
+  .footer h1{
+    font-family:  'Lato', sans-serif;
+    font-size: 1.5em;
+  }
+  .footer p{
+    font-size: 0.9em;
+    color:#f2f2f2;
+  }
+  .footer a{
+    color:#f2f2f2;
+  }
+
+  .list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
+    z-index: 2;
+    color: #fff;
+    background-color: #106E49;
+    border-color: #337ab7;
+}
+
+.fa .fa-users{
+  color: #106E49;
+}
+ select{
+
+    height: 28px;
+}
+
+.errors p,
+       .success p {
+        padding: 15px;
+      }
+
+.uploadsimg{
+  width:100px;
+  height:100px;
+  float:left;
+  border-radius:50%;
+  margin-right: 25px;
+
+}
+
+.profpics{
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  top:10px;
+  border-radius: 50%;
+  right:90px;
+}
+.profhref{
+
+  position: relative;
+  padding-left: 50px; 
+}
+
+.navbar-inverse .bar-brand {
+    color: #499928;
+}
+.bar-brand {
+    float: left;
+    height: 50px;
+    padding: 0px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+
+
+
+/****************User Profile  *********************/
+.user-row {
+    margin-bottom: 14px;
+}
+
+.user-row:last-child {
+    margin-bottom: 0;
+}
+
+.dropdown-user {
+    margin: 13px 0;
+    padding: 5px;
+    height: 100%;
+}
+
+.dropdown-user:hover {
+    cursor: pointer;
+}
+
+.table-user-information > tbody > tr {
+    border-top: 1px solid rgb(221, 221, 221);
+}
+
+.table-user-information > tbody > tr:first-child {
+    border-top: 0;
+}
+
+
+.table-user-information > tbody > tr > td {
+    border-top: 0;
+}
+.toppad
+{margin-top:20px;
+}
