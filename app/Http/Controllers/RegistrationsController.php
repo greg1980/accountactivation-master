@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 use App\Record;
 use App\Registration;
 use App\User;
-use App\Role;
+use App\Role; 
 use App\Http\Requests\RegistrationDataRequest;
 
 
